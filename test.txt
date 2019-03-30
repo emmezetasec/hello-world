@@ -1,4 +1,0 @@
-file di test git 
-riga 2 messa da locale
-riga tre messa da server
-fds
